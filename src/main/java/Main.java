@@ -8,9 +8,6 @@ import javax.measure.quantity.Mass;
 import org.jscience.physics.model.RelativisticModel;
 import org.jscience.physics.amount.Amount;
 
-
-
-
 import java.net.URI;
 import java.net.URISyntaxException;
 
